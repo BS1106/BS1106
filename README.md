@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BS1106
+- 👋 Hi, I’m @Bhavna Sharma
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Tableau, Python, R and SQL
 - 📫 How to reach me- Here's my LinkedIn: www.linkedin.com/in/bhavna1106
